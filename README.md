@@ -1,9 +1,8 @@
-# Retail Location Intelligence (Idea 210)
+# Retail Location Intelligence
 
 **Skill name:** `retail-location-intelligence`
 **Tagline:** Scores candidate retail sites using gravity models, trade-area analysis, and demographic/competitive data to recommend optimal store coordinates.
 **Cluster:** `business-operations`
-**Source idea:** 210
 **Version:** 1.0
 **License:** MIT
 
